@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build output
+dist/
+build/
+**/dist/
+**/dist-ssr/
+
+# Environment variables (locais, com segredos)
+.env
+.env.local
+.env.*.local
+**/.env
+!**/.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Sequelize / dbs locais
+*.sqlite
+*.sqlite3
+
+# Zip da entrega (gerado por zip-entrega.ps1)
+projeto2-biblioteca-entrega.zip
+
+# Claude sessions (metadata local)
+.claude/
+
+# Materiais de referência locais (não fazem parte do projeto entregue)
+diciplina/
+pdf da professora com os requisitos/
