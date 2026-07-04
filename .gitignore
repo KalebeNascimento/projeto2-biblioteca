@@ -33,8 +33,8 @@ Thumbs.db
 *.sqlite
 *.sqlite3
 
-# Zip da entrega (gerado por zip-entrega.ps1)
-projeto2-biblioteca-entrega.zip
+# Zips locais (packaging para o Moodle)
+*.zip
 
 # Claude sessions (metadata local)
 .claude/
@@ -45,3 +45,8 @@ pdf da professora com os requisitos/
 
 # Pasta de packaging local para envio no Moodle (gerada, não commitar)
 entrega/
+
+# Arquivos internos do time (roteiro do vídeo, script de packaging) — não devem ir para o repo
+roteiro-video-apresentacao.md
+roteiro-video-apresentacao.pdf
+zip-entrega.ps1
