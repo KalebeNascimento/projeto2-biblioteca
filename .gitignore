@@ -42,3 +42,6 @@ projeto2-biblioteca-entrega.zip
 # Materiais de referência locais (não fazem parte do projeto entregue)
 diciplina/
 pdf da professora com os requisitos/
+
+# Pasta de packaging local para envio no Moodle (gerada, não commitar)
+entrega/

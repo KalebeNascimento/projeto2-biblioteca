@@ -15,9 +15,10 @@ Disciplina: Programação Web (Back-End) — ES45B / ES51
 
 **Sistema de Gerenciamento de Biblioteca**: aplicação web completa para uma biblioteca gerenciar seu acervo, leitores e empréstimos/devoluções, com três perfis de acesso (Administrador, Bibliotecário e Leitor), autenticação por token e documentação da API.
 
-## Link do vídeo da apresentação
+## Links importantes
 
-> **[ADICIONAR LINK DO VÍDEO AQUI]** — a ser preenchido após a gravação.
+- **Repositório no GitHub**: <https://github.com/KalebeNascimento/projeto2-biblioteca>
+- **Vídeo da apresentação**: [ADICIONAR LINK DO VÍDEO AQUI]
 
 ---
 
@@ -92,11 +93,6 @@ Abra um terminal na pasta onde você quer o projeto e rode:
 ```bash
 git clone https://github.com/KalebeNascimento/projeto2-biblioteca.git
 cd projeto2-biblioteca
-```
-
-Se estiver usando o ZIP entregue no Moodle, apenas descompacte e entre na pasta pelo terminal:
-```bash
-cd caminho/para/a/pasta/descompactada
 ```
 
 Agora escolha **Opção A** (mais fácil, precisa de Docker) ou **Opção B** (precisa instalar PostgreSQL separadamente).
@@ -347,10 +343,3 @@ projeto2-web-back-end/
 └── README.md
 ```
 
----
-
-## Observações para a entrega
-
-- O `node_modules/` **NÃO** está incluído; use `npm install` em `backend/` e `frontend/` após descompactar.
-- Todas as senhas dos usuários seed são `senha123`.
-- O `.env.example` já está com as credenciais padrão do PostgreSQL local (`postgres/postgres`). Ajuste em `backend/.env` se seu banco local usar credenciais diferentes.
