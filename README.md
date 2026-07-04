@@ -18,7 +18,7 @@ Disciplina: Programação Web (Back-End) — ES45B / ES51
 ## Links importantes
 
 - **Repositório no GitHub**: <https://github.com/KalebeNascimento/projeto2-biblioteca>
-- **Vídeo da apresentação**: <https://drive.google.com/drive/folders/1lNTuJm1lq5Ukvd1MwRfIJxhGZx9vn05b?usp=sharing>
+- **Vídeo da apresentação**: <https://drive.google.com/file/d/1ElUB2jAUYz-WtiFOjvE4nu0ux8OADAI6/view?usp=sharing>
 
 ---
 
